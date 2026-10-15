@@ -1,6 +1,6 @@
 #include <iostream>
 #include <iomanip>
-#include <cmaths>
+#include <cstring>
 using napespace std;
 int main(){
   cout<<"hello world"<<endl;
